@@ -18,7 +18,7 @@ OPERATOR_ID = 7968501682
 bot = telebot.TeleBot(TOKEN)
 
 ticket_counter = 0
-OPERATORS = {OPERATOR_ID: "Артур Потужний"}
+OPERATORS = {OPERATOR_ID: "Едуард Пуля"}
 active_chats = {}
 ticket_messages = {}
 canceled_tickets = set()
