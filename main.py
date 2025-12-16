@@ -12,7 +12,7 @@ sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
 # =======================
 # Токен та оператор
 # =======================
-TOKEN = "8198427037:AAGZrlUfPERhnX6riX3Czu1r8L-Ptw-tD8s"
+TOKEN = "8541100573:AAHpQ3mRZngWl_9m9yFfzbv1Q3QdqDUEcfM"
 OPERATOR_ID = 7968501682
 
 bot = telebot.TeleBot(TOKEN)
