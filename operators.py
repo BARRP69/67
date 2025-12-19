@@ -7,7 +7,7 @@ Format: {operator_id: "operator_name"}
 # Dictionary mapping operator Telegram IDs to their names
 OPERATORS = {
     7968501682: "Едуард Пуля",
-    72081308547: "Максим Мари"
+    7747809152: "Кавалерка Лайт"
     # Add more operators in the format:
     # 123456789: "Ім'я Оператора",
 }
